@@ -1,0 +1,19 @@
+{
+  "name": "rstar",
+  "version": "0.1.0",
+  "description": "javascript R*-tree implementation",
+  "main": "rstar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmoerman/rstar.git"
+  },
+  "author": "Klaas Moerman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kmoerman/rstar/issues"
+  },
+  "homepage": "https://github.com/kmoerman/rstar#readme"
+}
